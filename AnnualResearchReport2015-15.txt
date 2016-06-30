@@ -44,8 +44,12 @@
 	2.6    Evaluation of Seed Stands & Plus Trees
 
 	2.7    MPCA Related Works
-		2.7.1	Floristc Inventorization
-		2.7.2	Herbarium 
-		2.7.3	Ex Situ Conservation
+		2.7.1	GIS Mapping
+		2.7.2	Soil Profiling 
+		2.7.2	Floristc Inventorization
+		2.7.3	Herbarium 
+		2.7.4	Ex Situ Conservation
+		2.7.5	Improved Method of Field Data Collection
+		
 
 
